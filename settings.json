@@ -1,0 +1,12 @@
+{
+  "backend": "Scratch GPT",
+  "endpoint": "http://127.0.0.1:11434",
+  "model": "scratch_latest.pt",
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "max_tokens": 1000000000,
+  "use_knowledge": true,
+  "remember_chats": true,
+  "font_scale": 1.0,
+  "theme": "Midnight"
+}
